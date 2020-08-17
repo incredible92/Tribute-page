@@ -1,0 +1,40 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+#main {
+  background-color: #808080;
+  margin: 10px 2% -10px auto;
+}
+#title {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  width: 15rem;
+  height: auto;
+  border-radius: 50%;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #6f4e37;
+  border: 3px solid black;
+}
+
+#tribute-link {
+  font-style: italic;
+}
